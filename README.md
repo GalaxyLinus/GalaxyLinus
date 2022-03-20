@@ -11,6 +11,7 @@
 
 ### dev.to Posts
 <!-- BLOG-POST-LIST:START -->
+- [Made a TikTakToe AI in Python](https://dev.to/linusx/made-a-tiktaktoe-ai-in-python-18mk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

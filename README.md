@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any Minecraft Projects**
 
-- 👨‍💻 All of my projects are available at [change me](change me)
-
-- 💬 Ask me about **MINECRAFT**
+- 👨‍💻 All of my projects are available at this github profile or on my youtube channel [TheDatapackMaker](https://www.youtube.com/channel/UCZmHgbzfSuv-mpf1wNUF5LA)
 
 - 📫 How to reach me **galaxylinus.github.io**
 

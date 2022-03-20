@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Linusx</h1>
-<h3 align="center">Your average 15yo tech guy from the internet</h3>
+<h1>Hi 👋, I'm Linusx</h1>
+<h3>Your average 15yo tech guy from the internet</h3>
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Javascript, C#, ...**
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I know basically as much as one can know about minecraft vanilla**
 
-### Blogs posts
+### dev.to Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

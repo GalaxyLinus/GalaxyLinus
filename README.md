@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Javascript, C#, ...**
 
-- 👯 I’m looking to collaborate on **any Minecraft Projects**
+- 👯 I’m looking to collaborate on **any fun Projects**
 
 - 👨‍💻 All of my projects are available at this github profile or on my youtube channel [TheDatapackMaker](https://www.youtube.com/channel/UCZmHgbzfSuv-mpf1wNUF5LA)
 

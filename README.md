@@ -17,6 +17,7 @@
 ### Cool Projects
 [elternportal-scraper](https://github.com/linuzzx/elternportal-scraper)
 [dsb-webscraper](https://github.com/linuzzx/dsb-webscraper)
+[Substi](https://github.com/linuzzx/Substi)
 
 ### Projects I support
 [pico-ducky](https://github.com/linuzzx/pico-ducky)

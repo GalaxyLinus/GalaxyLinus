@@ -14,6 +14,13 @@
 - [Made a TikTakToe AI in Python](https://dev.to/linusx/made-a-tiktaktoe-ai-in-python-18mk)
 <!-- BLOG-POST-LIST:END -->
 
+### Cool Projects
+[elternportal-scraper](https://github.com/linuzzx/elternportal-scraper)
+[dsb-webscraper](https://github.com/linuzzx/dsb-webscraper)
+
+### Projects I support
+[pico-ducky](https://github.com/linuzzx/pico-ducky)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/linusx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="linusx" height="30" width="40" /></a>

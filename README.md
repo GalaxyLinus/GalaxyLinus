@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Linusx</h1>
 <h3>Your average 15yo tech guy from the internet</h3>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, C#, ...**
+- 🌱 I’m currently learning **Python, HTML, CSS, Javascript, ...**
 
 - 👯 I’m looking to collaborate on **any fun Projects**
 

@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at this github profile or on my youtube channel [TheDatapackMaker](https://www.youtube.com/channel/UCZmHgbzfSuv-mpf1wNUF5LA)
 
-- ⚡ Fun fact **I know basically as much as one can know about minecraft vanilla**
+
 
 ### dev.to Posts
 <!-- BLOG-POST-LIST:START -->

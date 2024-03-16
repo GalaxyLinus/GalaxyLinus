@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Linusx</h1>
-<h3>Your average 16yo tech guy from the internet</h3>
+<h3>Your average 17yo tech guy from the internet</h3>
 
 - 🌱 I’m currently learning **Python, HTML, CSS, Javascript, ...**
 
